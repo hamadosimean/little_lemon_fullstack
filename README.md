@@ -1,5 +1,4 @@
-![Capture d'écran 2025-03-03 000722](https://github.com/user-attachments/assets/8d61346b-fcde-4fbf-974c-ad4797d43364)
-Here's an enhanced version of your README with better structure, clarity, and professionalism:  
+![Capture d'écran 2025-03-03 000722](https://github.com/user-attachments/assets/8d61346b-fcde-4fbf-974c-ad4797d43364) 
 
 
 # **Little Lemon Fullstack**  
